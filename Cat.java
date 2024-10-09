@@ -1,0 +1,28 @@
+// construction d'une classe
+/*
+ * public class Cat {
+ * public Cat() {
+ * System.out.println("Je suis un chat : " + this);
+ * }
+ * }
+ */
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+// attribut :
+/*
+ * public class Cat {
+ * 
+ * 
+ * 
+ * public Cat(String name, int age) {
+ * this.mName = name;
+ * this.mAge = age;
+ * 
+ * System.out.println(this.mAge + " ans" + " - " + this.mName);
+ * }
+ * private String mName; // par défault il est en public
+ * private int mAge;
+ * }
+ */
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
